@@ -1,6 +1,3 @@
-
-<div align="center">Hi there 👋</div> <br><br>
-            
 <div align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhaechang1)](https://github.com/anuraghazra/github-readme-stats)
