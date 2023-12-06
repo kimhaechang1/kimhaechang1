@@ -29,7 +29,8 @@
 |리액트 이론|<a href="https://github.com/kimhaechang1/ReactStudy">https://github.com/kimhaechang1/ReactStudy</a>|X|X|React|
  
 ***
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khc9812121)](https://solved.ac/khc9812121/)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khc9812121)](https://solved.ac/khc9812121/)
+[![코드트리|실력진단-kimhaechang](https://banner.codetree.ai/v1/banner/kimhaechang)](https://www.codetree.ai/profiles/kimhaechang)<br/>
 
 ***
 
