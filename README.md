@@ -2,7 +2,7 @@
  
  
  
-**React기반 사용자 친화적인 UI 개발을 좋아하는 프론트엔드 개발자 김회창 입니다.**
+**백엔드 개발자 김회창 입니다.**
  
 ### 관심 있는 것 🐈
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img    src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=OpenJDK&logoColor=white"/> 
@@ -13,6 +13,7 @@
 |이름|깃허브 링크|페이지 링크|간단한 요약|
 |------|---|---|---|
 |BePro|<a href="https://github.com/kimhaechang1/bePro">https://github.com/kimhaechang1/bePro</a>|X|비전공자와 전공자 사이 QnA 커뮤니티| 
+|CodeArena|<a href="https://github.com/kimhaechang1/CodeArena">https://github.com/kimhaechang1/CodeArena</a>|<a href="https://codearena.shop">https://codearena.shop</a>|온라인 져지 및 코드배틀 커뮤니티| 
  
 ***
 ### 진행한 공부들 
