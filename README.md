@@ -26,7 +26,7 @@ I'm studying to become a backend developer**
 
 ***
 ### PS
-|백준|코드트리|
+|backjoon|codetree|
 |----|------|
 |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khc9812121)](https://solved.ac/khc9812121/)|[![코드트리실력진단-kimhaechang](https://banner.codetree.ai/v1/banner/kimhaechang)](https://www.codetree.ai/profiles/kimhaechang)|
 
