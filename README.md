@@ -10,7 +10,7 @@ I'm studying to become a backend developer**
 |name|date|
 |----|----|
 |안동대학교 공과대학 컴퓨터공학과|2017.02 ~ 2023.02|
-|삼성 청년 소프트웨어 아카데미(SSAFY) 10기|2023.07~ |
+|삼성 청년 소프트웨어 아카데미(SSAFY) 10기|2023.07 ~ |
  
 ### Skils 🐈
 
@@ -20,10 +20,9 @@ I'm studying to become a backend developer**
 ***
 ### Projects
 
-|name|repo|url|summary|
-|------|---|---|---|
-|CodeArena|<a href="https://github.com/kimhaechang1/CodeArena">https://github.com/kimhaechang1/CodeArena</a>|<a href="https://codearena.shop">https://codearena.shop</a>|온라인 져지 및 코드배틀 커뮤니티| 
-|BePro|<a href="https://github.com/kimhaechang1/bePro">https://github.com/kimhaechang1/bePro</a>|X|비전공자와 전공자 사이 QnA 커뮤니티| 
+|name|repo|url|summary|date|
+|------|---|---|---|---|
+|CodeArena|<a href="https://github.com/kimhaechang1/CodeArena">https://github.com/kimhaechang1/CodeArena</a>|<a href="https://codearena.shop">https://codearena.shop</a>|온라인 져지 및 코드배틀 커뮤니티|2024.01.08 ~ 2024.02.16|
 
 ***
 ### PS
