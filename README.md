@@ -20,9 +20,9 @@ I'm studying to become a backend developer**
 ***
 ### Projects
 
-|name|repo|url|summary|date|
+|name|repo|role|summary|date|
 |------|---|---|---|---|
-|CodeArena|<a href="https://github.com/kimhaechang1/CodeArena">https://github.com/kimhaechang1/CodeArena</a>|<a href="https://codearena.shop">https://codearena.shop</a>|온라인 져지 및 코드배틀 커뮤니티|2024.01.03 ~ 2024.02.16|
+|CodeArena|<a href="https://github.com/kimhaechang1/CodeArena">https://github.com/kimhaechang1/CodeArena</a>|backend|온라인 져지 및 코드배틀 커뮤니티|2024.01.03 ~ 2024.02.16|
 
 ***
 ### PS
