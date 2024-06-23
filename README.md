@@ -27,16 +27,49 @@ I'm studying to become a backend developer**
 |DB|<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">|
 |Version Controll|<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Gerrit-181717?style=for-the-badge&logo=Gerrit&logoColor=white">|
 
+<div style="display:flex; justify-content:center;">
+ <div>
+   <h3> On Studying 🐈 </h3>
+   <table>
+    <tr>
+     <th>Category</th>
+     <th>Skils</th>
+    </tr>
+    <tr>
+     <td  style="text-align: center;">Back-end</td>
+     <td  style="text-align: center;"><img src="https://img.shields.io/badge/jpa-green?style=for-the-badge&logo=hibernate&logoColor=black"></td>
+    </tr>
+    <tr>
+     <td>DB</td>
+     <td><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"></td>
+    </tr>
+    <tr>
+     <td>CI/CD</td>
+     <td><img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black"></td>
+    </tr>
+    <tr>
+     <td>Infra</td>
+     <td><img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></td>
+    </tr>
+   </table>
+ </div>
+ <div>
+  <h3> On Reading 🐈 </h3>
+  <table style="text-align: center;">
+    <tr>
+     <td>name</td>
+     <td>period</td>
+     <td>state</td>
+    </tr>
+    <tr>
+     <td><a href="https://github.com/kimhaechang1/book-thisisjava">이것이 자바다</a></td>
+     <td>2024. 06. 09. ~ 2024. 06. 23</td>
+     <td><img src="https://img.shields.io/badge/Complete-00FF00?style=default"/></td>
+    </tr>
+   </table>
+ </div>
+</div>
 
-### On Studying 🐈
-
-|Category|Skils|
-|------|---|
-|Back-end|<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> WebSocket|
-|DB|<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">|
-|Ci/Cd|<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black">|
-|Infra|<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">|
- 
 ***
 ### Projects
 
