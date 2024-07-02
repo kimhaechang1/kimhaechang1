@@ -10,7 +10,7 @@ I'm studying to become a backend developer**
 |name|date|
 |----|----|
 |안동대학교 공과대학 컴퓨터공학과|2017.02 ~ 2023.02|
-|삼성 청년 소프트웨어 아카데미(SSAFY) 10기|2023.07 ~ |
+|삼성 청년 소프트웨어 아카데미(SSAFY) 10기|2023.07 ~ 2024.07|
 ***
 ### Portfolio
 
