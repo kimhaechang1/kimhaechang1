@@ -29,31 +29,6 @@ I'm studying to become a backend developer**
 
 <div style="display:flex; justify-content:center;">
  <div>
-   <h3> On Studying 🐈 </h3>
-   <table>
-    <tr>
-     <th>Category</th>
-     <th>Skils</th>
-    </tr>
-    <tr>
-     <td  style="text-align: center;">Back-end</td>
-     <td  style="text-align: center;"><img src="https://img.shields.io/badge/jpa-green?style=for-the-badge&logo=hibernate&logoColor=black"></td>
-    </tr>
-    <tr>
-     <td>DB</td>
-     <td><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"></td>
-    </tr>
-    <tr>
-     <td>CI/CD</td>
-     <td><img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black"></td>
-    </tr>
-    <tr>
-     <td>Infra</td>
-     <td><img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></td>
-    </tr>
-   </table>
- </div>
- <div>
   <h3> On Reading 🐈 </h3>
   <table style="text-align: center;">
     <tr>
