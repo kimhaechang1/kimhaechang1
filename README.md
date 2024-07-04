@@ -1,17 +1,8 @@
 <div align="center">
  
- 
- 
 **Hello, I'm Hoichang Kim.
 I'm studying to become a backend developer**
 
-### Edu
-
-|name|date|
-|----|----|
-|안동대학교 공과대학 컴퓨터공학과|2017.02 ~ 2023.02|
-|삼성 청년 소프트웨어 아카데미(SSAFY) 10기|2023.07 ~ 2024.07|
-***
 ### Portfolio
 
 <a href="https://github.com/kimhaechang1/portfolio/blob/main/%EA%B9%80%ED%9A%8C%EC%B0%BD_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf">안녕하세요 김회창입니다.</a>
@@ -41,6 +32,16 @@ I'm studying to become a backend developer**
      <td>2024. 06. 09. ~ 2024. 06. 23</td>
      <td><img src="https://img.shields.io/badge/Complete-00FF00?style=default"/></td>
     </tr>
+    <tr>
+     <td><a href="https://github.com/kimhaechang1/book-The_Essence_of_Object-Orientation">객체지향의 사실과 오해</a></td>
+     <td>2024. 06. 23. ~ </td>
+     <td><img src="https://img.shields.io/badge/In Progress-FF0000?style=default"/></td>
+    </tr>
+    <tr>
+     <td><a href="https://github.com/kimhaechang1/book-Modern_Java_In_Action">모던 자바 인 액션</a></td>
+     <td>2024. 06. 23. ~ </td>
+     <td><img src="https://img.shields.io/badge/In Progress-FF0000?style=default"/></td>
+    </tr>
    </table>
  </div>
 </div>
@@ -53,8 +54,16 @@ I'm studying to become a backend developer**
 |CodeArena|<a href="https://github.com/kimhaechang1/CodeArena">CodeArena Repo</a>|Backend|온라인 져지 및 코드배틀 커뮤니티|2024.01.03 ~ 2024.02.16|
 |IBalance|<a href="https://github.com/D108-IBalance/IBalance">IBalance Repo</a>|BigData & FastAPI|아이 맞춤형 식단 추천 서비스|2024.02.19 ~ 2024.04.05|
 |Whoru|<a href="https://github.com/team-smog/whoru">Whoru Repo</a>|Backend|익명 메세지 전송 플렛폼|2024.04.08 ~ 2024.05.20|
-
 ***
+
+### Edu
+
+|name|date|
+|----|----|
+|안동대학교 공과대학 컴퓨터공학과|2017.02 ~ 2023.02|
+|삼성 청년 소프트웨어 아카데미(SSAFY) 10기|2023.07 ~ 2024.07|
+***
+
 ### PS
 |baekjoon|codetree|
 |----|------|
