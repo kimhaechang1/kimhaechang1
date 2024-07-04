@@ -51,9 +51,9 @@ I'm studying to become a backend developer**
 
 |name|repo|role|summary|date|
 |------|---|---|---|---|
-|CodeArena|<a href="https://github.com/kimhaechang1/CodeArena">CodeArena Repo</a>|Backend|온라인 져지 및 코드배틀 커뮤니티|2024.01.03 ~ 2024.02.16|
-|IBalance|<a href="https://github.com/D108-IBalance/IBalance">IBalance Repo</a>|BigData & FastAPI|아이 맞춤형 식단 추천 서비스|2024.02.19 ~ 2024.04.05|
-|Whoru|<a href="https://github.com/team-smog/whoru">Whoru Repo</a>|Backend|익명 메세지 전송 플렛폼|2024.04.08 ~ 2024.05.20|
+|CodeArena|<a href="https://github.com/kimhaechang1/CodeArena">CodeArena Repo</a>|Backend|온라인 져지 및 코드배틀 커뮤니티|2024.01.03 ~ 2024.02.16 (7주)|
+|IBalance|<a href="https://github.com/D108-IBalance/IBalance">IBalance Repo</a>|BigData & FastAPI|아이 맞춤형 식단 추천 서비스|2024.02.19 ~ 2024.04.05 (7주)|
+|Whoru|<a href="https://github.com/team-smog/whoru">Whoru Repo</a>|Backend|익명 메세지 전송 플렛폼|2024.04.08 ~ 2024.05.20 (7주)|
 ***
 
 ### Edu
