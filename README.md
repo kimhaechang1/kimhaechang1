@@ -34,8 +34,8 @@ I'm studying to become a backend developer**
     </tr>
     <tr>
      <td><a href="https://github.com/kimhaechang1/book-The_Essence_of_Object-Orientation">객체지향의 사실과 오해</a></td>
-     <td>2024. 06. 23. ~ </td>
-     <td><img src="https://img.shields.io/badge/In Progress-FF0000?style=default"/></td>
+     <td>2024. 06. 23. ~ 2024. 07. 11</td>
+     <td><img src="https://img.shields.io/badge/Complete-00FF00?style=default"/></td>
     </tr>
     <tr>
      <td><a href="https://github.com/kimhaechang1/book-Modern_Java_In_Action">모던 자바 인 액션</a></td>
