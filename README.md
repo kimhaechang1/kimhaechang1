@@ -39,7 +39,22 @@ I'm studying to become a backend developer**
     </tr>
     <tr>
      <td><a href="https://github.com/kimhaechang1/book-Modern_Java_In_Action">모던 자바 인 액션</a></td>
-     <td>2024. 06. 23. ~ </td>
+     <td>2024. 06. 23. ~ 2024. 07. 23</td>
+     <td><img src="https://img.shields.io/badge/Complete-00FF00?style=default"/></td>
+    </tr>
+    <tr>
+     <td><a href="https://github.com/kimhaechang1/book-Effective_Java_3/E">이펙티브 자바 3/E</a></td>
+     <td>2024. 07. 23. ~ </td>
+     <td><img src="https://img.shields.io/badge/In Progress-FF0000?style=default"/></td>
+    </tr>
+    <tr>
+     <td><a href="https://github.com/kimhaechang1/book-Self-Learning_Network">혼자 공부하는 네트워크</a></td>
+     <td>2024. 07. 23. ~ </td>
+     <td><img src="https://img.shields.io/badge/In Progress-FF0000?style=default"/></td>
+    </tr>
+    <tr>
+     <td><a href="https://github.com/kimhaechang1/book-Real_MySQL">Real MySQL 8.0</a></td>
+     <td>2024. 07. 23. ~ </td>
      <td><img src="https://img.shields.io/badge/In Progress-FF0000?style=default"/></td>
     </tr>
    </table>
