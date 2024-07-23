@@ -43,7 +43,7 @@ I'm studying to become a backend developer**
      <td><img src="https://img.shields.io/badge/Complete-00FF00?style=default"/></td>
     </tr>
     <tr>
-     <td><a href="https://github.com/kimhaechang1/book-Effective_Java_3/E">이펙티브 자바 3/E</a></td>
+     <td><a href="https://github.com/kimhaechang1/book-Effective_Java_3E">이펙티브 자바 3/E</a></td>
      <td>2024. 07. 23. ~ </td>
      <td><img src="https://img.shields.io/badge/In Progress-FF0000?style=default"/></td>
     </tr>
