@@ -3,10 +3,6 @@
 **Hello, I'm Hoichang Kim.
 I'm studying to become a backend developer**
 
-### Portfolio
-
-<a href="https://github.com/kimhaechang1/portfolio/blob/main/%EA%B9%80%ED%9A%8C%EC%B0%BD_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf">안녕하세요 김회창입니다.</a>
-
 ## Tech List
 
 ### Use well 🐈
