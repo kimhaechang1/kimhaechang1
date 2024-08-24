@@ -45,8 +45,8 @@ I'm studying to become a backend developer**
     </tr>
     <tr>
      <td><a href="https://github.com/kimhaechang1/book-Self-Learning_Network">혼자 공부하는 네트워크</a></td>
-     <td>2024. 07. 23. ~ </td>
-     <td><img src="https://img.shields.io/badge/In Progress-FF0000?style=default"/></td>
+     <td>2024. 07. 23. ~ 2024. 08. 24</td>
+     <td><img src="https://img.shields.io/badge/Complete-00FF00?style=default"/></td>
     </tr>
     <tr>
      <td><a href="https://github.com/kimhaechang1/book-Real_MySQL">Real MySQL 8.0</a></td>
