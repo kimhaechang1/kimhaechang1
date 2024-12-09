@@ -8,7 +8,7 @@
 
 **Framework**: *Spring </br>
 
-**Library**: FastAPI, ReactJS, *JPA(hibernate) </br>
+**Library**: FastAPI, ReactJS, *JPA(hibernate), MyBatis </br>
 
 **DB**: *MySQL, Redis, MongoDB </br>
 
@@ -33,10 +33,10 @@
 - 2024 관광데이터 활용 공모전 한국 관광공사 사장상
 - 삼성 청년 SW 아카데미 특화 프로젝트 우수상
 
-### Certification
+### Certification [institution]
 
-- SQLD
-- PCCP Level 4
+- SQLD [한국데이터산업진흥원]
+- PCCP Level 4 [(주) 그렙]
 
 ***
 
