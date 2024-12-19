@@ -19,6 +19,10 @@
 - 삼성 청년 소프트웨어 아카데미(SSAFY) 10기 (수료) [ 2023.07 ~ 2024.07 ]
 - 안동대학교 공과대학 컴퓨터공학과 (3.5/4.5) [ 2017.02 ~ 2023.02 ]
 
+### Portfolio [PDF]
+
+<a href="https://github.com/kimhaechang1/portfolio/blob/main/%EA%B9%80%ED%9A%8C%EC%B0%BD_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf">포트폴리오 바로가기</a>
+
 ### Projects
 
 |name|repo|role|summary|date|
