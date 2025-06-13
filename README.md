@@ -39,6 +39,7 @@
 
 ### Certification [institution]
 
+- 정보처리기사
 - SQLD [한국데이터산업진흥원]
 - PCCP Level 4 [(주) 그렙]
 
